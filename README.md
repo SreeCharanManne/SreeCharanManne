@@ -1,13 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SreecharanManne&style=plastic&color=dc143c)
 
-👋 Hi, I’m Sreecharan Manne
-👀 Currently pursuing Masters in Computer Science at Arizona State University.
-🎯 Software Engineer Intern at Nissan North America.
-💞️ I’m looking to collaborate on interesting open-source projects or research.
+- 👋 Hi, I’m Sreecharan Manne
+- 👀 Currently pursuing Masters in Computer Science at Arizona State University.
+- 🎯 Software Engineer Intern at Nissan North America.
+- 💞️ I’m looking to collaborate on interesting open-source projects or research.
 
-📫 **Reach Me Out**: 
-- Email: [sreecharanmanne2000@gmail.com](mailto:sreecharanmanne2000@gmail.com)
-- LinkedIn: [Sree Charan Manne](https://www.linkedin.com/in/sree-charan-manne/)
+## 🤝 Reach me out
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-manne/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreecharanmanne2000@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+16025163781-gree?style=for-the-badge&logo=phone&logoColor=white)](tel:+16025163781)
 
 ## ⚡ GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreecharanManne&layout=pie&theme=highcontrast)](https://github.com/SreecharanManne/github-readme-stats)
@@ -39,10 +40,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/cm2303?theme=dark)
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sree-charan-manne/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreecharanmanne2000@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+16025163781-gree?style=for-the-badge&logo=phone&logoColor=white)](tel:+16025163781)
+
 
 
   
