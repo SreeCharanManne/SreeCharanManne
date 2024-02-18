@@ -1,8 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SreecharanManne&style=plastic&color=dc143c)
 
-👋 Hi, I’m Jaswanth
-👀 Currently pursuing Masters in Software Enginering at San Jose State University.
-🎯 Software Engineer Intern at Snowflake Inc.
+👋 Hi, I’m Sreecharan Manne
+👀 Currently pursuing Masters in Computer Science at Arizona State University.
+🎯 Software Engineer Intern at Nissan North America.
 💞️ I’m looking to collaborate on interesting open-source projects or research.
 
 📫 **Reach Me Out**: 
