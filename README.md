@@ -1,4 +1,4 @@
-# Sreecharan Manne
+# SreeCharan Manne
 ![Profile Views](https://komarev.com/ghpvc/?username=SreecharanManne&style=plastic&color=dc143c)
 
 👋 Hi, I'm Sreecharan Manne, currently pursuing my Masters in Computer Science at Arizona State University. As a Software Engineer Intern at Nissan North America, I'm passionate about contributing to open-source projects and research in the field of Computer Science.
