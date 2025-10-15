@@ -2,6 +2,7 @@
 
 # 👋 Hey there! I'm Sreecharan Manne
 
+💼 **Software Engineer** @ **Amazon Ads**  
 🎓 **Master’s in Computer Science** @ [Arizona State University](https://www.asu.edu/)  
 💼 **Software Engineer Intern** @ **Nissan North America**  
 💡 Passionate about **distributed systems, backend engineering, and cloud infrastructure**  
